@@ -1,0 +1,30 @@
+.generate-joke-btn {
+display: flex;
+
+margin: auto;
+ background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(80, 95, 230));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.jokes-container {
+ margin: auto;
+
+
+ text-align: center;
+ margin: 250px auto auto auto;
+    width: 500px;
+    border: 1px solid #000000;
+    padding: 45px;
+     background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(80, 95, 230));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+body {
+background-color:rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(87,9,121,1) 48%, rgba(0,212,255,1) 100%);
+    
+
+}
